@@ -20,7 +20,7 @@ const Projects = () => {
           title="eFood Project"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
           Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectOne}
+          src={projectTwo}
           to="https://google.com"
           see="https://efoodmarket.netlify.app"
         />
@@ -108,7 +108,7 @@ const Projects = () => {
           title="Animation Menu"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
           Explicabo quibusdam voluptate sapiente voluptatibus harum quidem"
-          src={projectOne}
+          src={projectTwo}
           to="https://google.com"
           see="https://easymenu1.netlify.app"
         />
@@ -124,7 +124,7 @@ const Projects = () => {
           title="IQRO AGENCY"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
           Explicabo quibusdam voluptate sapiente voluptatibus harum quidem"
-          src={projectOne}
+          src={projectTwo}
           to="https://google.com"
           see="https://wedaretobegreate.netlify.app"
         />
@@ -132,7 +132,7 @@ const Projects = () => {
           title="Counter"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
           Explicabo quibusdam voluptate sapiente voluptatibus harum quidem"
-          src={projectOne}
+          src={projectThree}
           to="https://google.com"
           see="https://reactdemo-bobur.netlify.app"
         />
@@ -140,7 +140,7 @@ const Projects = () => {
           title="Animation Swipe"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
           Explicabo quibusdam voluptate sapiente voluptatibus harum quidem"
-          src={projectOne}
+          src={projectThree}
           to="https://google.com"
           see="https://swipeanimation.netlify.app"
         />
@@ -148,7 +148,7 @@ const Projects = () => {
           title="Bubble Animation"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
           Explicabo quibusdam voluptate sapiente voluptatibus harum quidem"
-          src={projectOne}
+          src={projectTwo}
           to="https://google.com"
           see="https://animationbubble.netlify.app"
         />
@@ -156,7 +156,7 @@ const Projects = () => {
           title="Button animation with water"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
           Explicabo quibusdam voluptate sapiente voluptatibus harum quidem"
-          src={projectOne}
+          src={projectThree}
           to="https://google.com"
           see="https://wateranimationnumber1.netlify.app"
         />
@@ -172,9 +172,17 @@ const Projects = () => {
           title="Game X and O"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
           Explicabo quibusdam voluptate sapiente voluptatibus harum quidem"
-          src={projectOne}
+          src={projectTwo}
           to="https://google.com"
           see="https://gamexando.netlify.app"
+        />
+           <ProjectsCard
+          title="This website link"
+          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+          Explicabo quibusdam voluptate sapiente voluptatibus harum quidem"
+          src={projectThree}
+          to="https://google.com"
+          see="my-best-portfolio-website.netlify.app"
         />
       </div>
     </section>
